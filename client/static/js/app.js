@@ -1,4 +1,3 @@
-
 const form = document.querySelector('.telegraph');
 const publishBtn = document.querySelector('#publish')
 form.addEventListener('submit', submitPost);
