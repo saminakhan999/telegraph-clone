@@ -22,17 +22,3 @@ Create your own anonymous post and share it with the world!
 
 - In the telegraph-clone folder run `npm test` to launch the jest test suite
 
-## Changelog
-
-## Bugs
-
-## Wins & Challenges
-
-### Wins
-
-* I SWEAR EVERYTHING WORKS
-
-### Challenges
-
-* 
-
